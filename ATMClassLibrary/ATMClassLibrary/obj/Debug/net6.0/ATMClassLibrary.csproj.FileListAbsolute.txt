@@ -1,0 +1,12 @@
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\bin\Debug\net6.0\ATMClassLibrary.deps.json
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\bin\Debug\net6.0\ATMClassLibrary.dll
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\bin\Debug\net6.0\ATMClassLibrary.pdb
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.csproj.AssemblyReference.cache
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfoInputs.cache
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.AssemblyInfo.cs
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.csproj.CoreCompileInputs.cache
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.dll
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\refint\ATMClassLibrary.dll
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ATMClassLibrary.pdb
+C:\Study\2 курс\NET\Lab1\ATMClassLibrary\ATMClassLibrary\obj\Debug\net6.0\ref\ATMClassLibrary.dll

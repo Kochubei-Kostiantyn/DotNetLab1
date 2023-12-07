@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1bl5tqMdkpZXIIatwgdgckvHcgbCpv5zdLnFnJ46m5ud7zRKV20+bK31uHGQoIqQ7KMKzCjC+KnYnjSkccOVSw==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\2 курс\\NET\\Lab1\\ATMClassLibrary\\WinFormsATM\\WinFormsATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kostya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Kostya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Kostya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Kostya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
